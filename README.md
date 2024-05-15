@@ -26,8 +26,7 @@ I like games and I create game projects to learn programming.
 ---
 [![](https://visitcount.itsvg.in/api?id=GauravBariha&icon=8&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/GauravBariha) 
+  ## Happy Learning
 
    ![cat](https://github.com/GauravBariha/GauravBariha/assets/101465555/3ba9e757-d746-4823-826d-8d4946a3f37b)
 
